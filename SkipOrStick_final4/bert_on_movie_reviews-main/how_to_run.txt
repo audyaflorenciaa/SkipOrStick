@@ -1,0 +1,3 @@
+1. enter the venv : venv\Scripts\activate -> krn requirements ter install di venv
+2. cd src 
+3. streamlit run app.py
